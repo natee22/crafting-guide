@@ -483,6 +483,42 @@
             "input": [[6, "Oak Plank"], [1, "Stick"]],
             "tools": ["Crafting Table"]
         }, {
+            "output": [[8, "Orange Stained Glass"]],
+            "input": [[8, "Glass"],[1, "Orange Dye"]] ,
+            "tools": ["Crafting Table"]
+        }, { 
+            "output": [[8, "Black Stained Glass"]],
+            "input": [[8, "Glass"],[1, "Ink Sack"]] ,
+            "tools": ["Crafting Table"]
+        }, { 
+            "output": [[8, "White Stained Glass"]],
+            "input": [[8, "Glass"],[1, "Bone Meal"]] ,
+            "tools": ["Crafting Table"]
+        }, { 
+            "output": [[8, "Lime Stained Glass"]],
+            "input": [[8, "Glass"],[1, "Lime Dye"]] ,
+            "tools": ["Crafting Table"]
+        }, { 
+            "output": [[8, "Yellow Stained Glass"]],
+            "input": [[8, "Glass"],[1, "Dandelion Yellow"]] ,
+            "tools": ["Crafting Table"]
+        }, { 
+            "output": [[8, "Red Stained Glass"]],
+            "input": [[8, "Glass"],[1, "Rose Red"]] ,
+            "tools": ["Crafting Table"]
+        }, { 
+            "output": [[8, "Blue Stained Glass"]],
+            "input": [[8, "Glass"],[1, "Lapis Lazuli"]] ,
+            "tools": ["Crafting Table"]
+        }, { 
+            "output": [[8, "Purple Stained Glass"]],
+            "input": [[8, "Glass"],[1, "Purple Dye"]] ,
+            "tools": ["Crafting Table"]
+        }, { 
+            "output": [[8, "Green Stained Glass"]],
+            "input": [[8, "Glass"],[1, "Cactus Green"]] ,
+            "tools": ["Crafting Table"]
+        }, {
             "output": [[1, "Steak"]],
             "input": [[1, "Raw Beef"], [125, "milli-coal"]],
             "tools": ["Furnace"]
